@@ -1,5 +1,5 @@
 ---
-layout: Modernist 
+layout: default
 title: Home
 ---
 
