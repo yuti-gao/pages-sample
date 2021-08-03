@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
-## Welcome everyone to my spiffy site!
+## Welcome to Yuti's website!
 
 
 #### Here are some example pages:
